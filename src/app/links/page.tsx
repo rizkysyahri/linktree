@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import data from "../../../data.json";
+import data from "../../../data.json"
 
 function LinkCard({
   href,
